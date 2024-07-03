@@ -1,9 +1,20 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "videos": [
+    {
+      "id": "2",
+      "title": "Título do Vídeo",
+      "category": "Backend",
+      "imageUrl": "http://example.com/image2.jpg",
+      "videoUrl": "http://example.com/video2.mp4",
+      "description": "Descrição do vídeo 2"
+    },
+    {
+      "id": "32cb",
+      "title": "dsadsasda",
+      "category": "Frontend",
+      "imageUrl": "dsadsa",
+      "videoUrl": "asda",
+      "description": "das"
+    }
+  ]
 }
